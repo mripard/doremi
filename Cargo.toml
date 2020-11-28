@@ -12,3 +12,8 @@ libc = "^0.2"
 mmap = "^0.1"
 num_enum = "^0.4"
 vmm-sys-util = "^0.5"
+
+[dev-dependencies]
+clap = "^2.33"
+fixed = "^0.5"
+image = "^0.23"
